@@ -38,7 +38,7 @@ body {
 }
 main {
   width: 55%;
-  min-height: 50%;
+  min-height: 40%;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -184,7 +184,7 @@ footer {
 
 @media screen and (max-width: 720px) {
   main {
-    height: 40%;
+    min-height: 36%;
     width: 80%;
   }
   .content-header {
